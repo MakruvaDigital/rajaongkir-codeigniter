@@ -28,7 +28,7 @@ Response yang dihasilkan berupa string JSON balasan dari RajaOngkir.
 ### Dokumentasi lebih lanjut
 Silakan lihat code di dalam library, di dalamnya terdapat komentar yang dapat membantu Anda.
 ### Referensi
-[Dokumentasi RajaOngkir](http://rajaongkir.com/dokumentasi)
-[Petunjuk Penggunaan](https://makruvadigital.com/blog)
+* [Dokumentasi RajaOngkir](http://rajaongkir.com/dokumentasi)
+* [Petunjuk Penggunaan](https://makruvadigital.com/blog)
 ### Demo
 [Web Demo Library API RajaOngkir CodeIgniter](http://app.makruvadigital.com)

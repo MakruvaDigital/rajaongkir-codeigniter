@@ -24,7 +24,7 @@ class Rajaongkir{
      *
      * @var string
      */
-	private $api_key;// = 'c4be7457f113092f6e1455e3f8caab90';
+	private $api_key;
 	
 	function __construct(){
         if (!function_exists('curl_init')) {

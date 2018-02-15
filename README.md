@@ -14,11 +14,14 @@ $this->load->library('rajaongkir');
 ```
 ### Melakukan request
 ```php
-//Mendapatkan nama semua propinsi
+//Mendapatkan nama semua provinsi
 $provinces = $this->rajaongkir->province();
 
-//Mendapatkan nama semua kota
+//Mendapatkan nama semua kabupaten/kota
 $cities = $this->rajaongkir->city();
+
+//Mendapatkan nama kabupaten/kota yang ada di Provinsi Jawa Tengah (10)
+$cities = $this->rajaongkir->city(10);
 
 //Mendapatkan nama kecamatan yang ada di Kabupaten Bantul (39)
 $subdistrict = $this->rajaongkir->subdistrict(39);
